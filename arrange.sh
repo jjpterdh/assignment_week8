@@ -27,3 +27,4 @@ mv w* W* ../w
 mv x* X* ../x
 mv y* Y* ../y
 mv z* Z* ../z
+cd ..
